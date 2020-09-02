@@ -1,6 +1,6 @@
 # Engenharia de Projeto
 
-Repositório referente ao nosso trabalho de Engenharia de Projeto. Nós entregaremos os próximos artefatos, e disponibilizaremos os códigos referentes ao projeto neste mesmo repositório, cada aluno haverá de ter sua própria branch onde desenvolverá o conteúdo que preferir, após analise conjunta subiremos os arqúivos para branch _*master*_.
+Repositório referente ao nosso trabalho de Engenharia de Projeto. Nós entregaremos os próximos artefatos, e disponibilizaremos os códigos referentes ao projeto neste mesmo repositório, cada aluno haverá de ter sua própria branch onde desenvolverá o conteúdo que preferir, após analise conjunta subiremos os arquívos para branch _*master*_.
 
 ### Dados dos integrantes:
 
