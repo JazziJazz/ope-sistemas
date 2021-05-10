@@ -10,6 +10,5 @@ Rodrigo Siliunas Cunha | 1904036 | Desenvolvedor Front End
 Matheus Carvalho Pelegrini  | 1903395 | Desenvolvedor
 Silvio Rodrigo do Nascimento Carvalho | 1902873 | Desenvolvedor
 Caio Cesar de Matos Silva | 1904106 | Desenvolvedor
-Gabriel Gonçalves Corvelo Bastos | 1904369 | Desenvolvedor
 
 <img src="https://image.freepik.com/vetores-gratis/pensador-do-trabalhador-da-construcao-civil_8675-2.jpg" alt="Imagem ilustrativa para representar os integrantes do projeto em dúvidas sobre o que realmente deveria ser feito." height="200" />
