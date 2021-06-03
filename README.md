@@ -6,7 +6,7 @@ Repositório referente ao nosso trabalho de Engenharia de Projeto. Nós entregar
 
 Nome Completo | Número de RA | Função
 :------ | :------: | :------:
-Rodrigo Siliunas Cunha | 1904036 | Desenvolvedor Front End
+Rodrigo Siliunas Cunha | 1904036 | Desenvolvedor
 Matheus Carvalho Pelegrini  | 1903395 | Desenvolvedor
 Silvio Rodrigo do Nascimento Carvalho | 1902873 | Desenvolvedor
 Caio Cesar de Matos Silva | 1904106 | Desenvolvedor
