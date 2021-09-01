@@ -1,0 +1,233 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("./img/background.jpg");
+    background-size: 30%;
+}
+header {
+    margin-bottom: 100px;
+}
+
+section{
+    position: absolute;
+    left: 60px;
+}
+.cabecalhoimg{
+    width: 100%;
+    height: 555px;
+    background-position: center center;
+}
+.container{
+    width: 100%;
+    padding: 9px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.logo img{
+    width: 500px;
+    float:left;
+    position: relative;
+    top: -350px;
+    left: 100px;
+}
+.cabecalho p{
+    font-size: 130px;
+    margin: 0;
+    position: relative;
+    left: 90px;
+    font-family: fantasy;
+}
+.categoria p{
+    font-size: 100px;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+
+/*pg login*/
+
+#email{
+    width: 100%;
+    margin-bottom: 5px;
+}
+#senha{
+    width: 100%;
+    margin-bottom: -1px;
+    padding-bottom: 5   px;
+}
+#box-log{
+    margin-top:10%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 15px;
+    box-shadow: 0 0 20px -0.5em rgba(0, 0, 0, 0.439);
+}
+#box-log h1{
+    text-align: center;
+    margin-top: 3px;
+    margin-bottom: 0;
+}
+#box-log p{
+    text-align: center;
+    font-size: 10px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.botoes{
+    margin-top: 5px;
+    margin-right: auto!important;
+    margin-left: auto!important;
+    gap: .5rem!important;
+    display: grid!important;
+    flex: 0 0 auto;
+    width: 60%;
+    text-align: center;
+    text-decoration: none;
+}
+.entrar{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    user-select: none;
+    background-color: #790000;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+}
+.cadastro{
+    display: inline-block;
+    color:  #790000;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    user-select: none;
+    background-color:  transparent;
+    border: 1px solid  #790000;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+}
+.cadastro:hover{
+    color: #790000;
+}
+.row a{
+    text-decoration: none;
+    font-size: 10px;
+    margin-left: 17%;
+}
+@media (max-width: 600px){
+    #box-log{
+        width: 60%;
+        
+    }
+}
+#senha a{
+    text-decoration: none;
+    font-size: 12px;
+}
+
+/*pg cadastro*/
+
+#box-cadastro{
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 15px;
+    box-shadow: 0 0 20px -0.5em rgba(0, 0, 0, 0.439);
+}
+#Titulos{
+    font-size: 25px;
+    display: inline-grid;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.enviar{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    user-select: none;
+    background-color: #790000;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    gap: .5rem!important;
+    flex: 0 0 auto;
+    width: 30%;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* PaginaIndex*/
+
+#inicio{
+    background-color: rgba(255, 255, 255, 0.7);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 25px;
+    margin-top: 55px;
+    margin-right: auto!important;
+    margin-left: auto!important;
+    gap: .5rem!important;
+    display: grid!important;
+    flex: 0 0 auto;
+    width: 50%;
+    text-align: center;
+    text-decoration: none;
+}
+#inicio img{
+    width: 120px;
+    margin-right: auto!important;
+    margin-left: auto!important;
+}
+#inicio botao{
+        width: 0%;
+        border-radius: 10px;
+}
+#inicio h1{
+    font-family: "Poppins",sans-serif!important;
+    font-size: 20px;
+    margin: -5px;
+}
+#inicio p{
+    font-family: "Poppins",sans-serif!important;
+    font-size: 10px;
+    margin-top: -3px;
+}
+.botao{
+    margin-right: auto!important;
+    margin-left: auto!important;
+    width: 50%;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    user-select: none;
+    background-color: #790000;
+    border: none;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: 10px;
+}
+.botao:hover{
+    color: #790000;
+    background-color: #790000;
+    border: 1px solid  #790000;
+    background-color:  #79000035;
+    text-decoration: none;
+}
+#login{
+    margin-top: 37%;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
